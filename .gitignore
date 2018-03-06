@@ -1,0 +1,14 @@
+# Compiled source #
+###################
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+!Makefile
+
+.o
+.pyc
